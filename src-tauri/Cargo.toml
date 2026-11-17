@@ -1,6 +1,7 @@
 [package]
 name = "kanigara-bloom"
 version = "0.1.0"
+license = "MIT"
 description = "Kanigara Bloom desktop companion"
 edition = "2024"
 
