@@ -1,0 +1,35 @@
+:root {
+  font-family: "Segoe UI", sans-serif;
+  color: #25251f;
+  background: #fffdf5;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.setup-status {
+  width: min(100% - 48px, 560px);
+  margin: 15vh auto 0;
+}
+
+.setup-status h1 {
+  margin: 0 0 16px;
+  font-size: 2rem;
+}
+
+.setup-status p {
+  line-height: 1.5;
+}
+
+.setup-note {
+  color: #66665f;
+}
