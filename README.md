@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="assets/kanigara-icon.svg" width="112" alt="Kanigara Bloom sunflower icon">
-  <h1>Kanigara Bloom</h1>
+  <h1>🌻 Kanigara Bloom</h1>
   <p>A Windows desktop companion for working with one AI provider through a pixel-art sunflower, quick chat, task status, and action approvals.</p>
   <p>
     <a href="https://github.com/kanigaraa/kanigara-bloom/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/kanigaraa/kanigara-bloom?style=flat-square"></a>
